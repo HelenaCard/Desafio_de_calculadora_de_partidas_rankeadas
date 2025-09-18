@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-ranqueada",
+  "version": "1.0.0",
+  "description": "Uma calculadora de partidas ranqueadas em HTML, CSS e JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "calculadora",
+    "rank",
+    "desafio"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC"
+}
