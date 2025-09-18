@@ -41,3 +41,7 @@ O nível do jogador é determinado com base no número de vitórias, de acordo c
 * **JavaScript:** Lógica de cálculo e exibição do resultado.
 
 ---
+
+## Projeto -- Abrir o arquivo index.html no navegador para executar o desafio
+<img width="1308" height="648" alt="image" src="https://github.com/user-attachments/assets/0b51e576-03d8-4d8e-8696-f2e3d265645c" />
+
